@@ -1,0 +1,98 @@
+* {
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./assets/background.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    overflow-x: hidden; 
+    overflow-y: auto; 
+}
+
+body::after {
+    content: '';
+    position: fixed; 
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.596);
+    z-index: -1;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    background: rgba(255, 0, 70, 1);
+    box-shadow: 5px 5px 5px 5px rgba(255, 0, 70, 0.5);
+    width: 150px;
+    max-width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+.resultado {
+    color: red;
+    font-size: 2rem;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.highlight {
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#inputMin,
+#inputMax {
+    max-width: 300px;
+    width: 100%;
+}
+
+#resultadoText {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+/* Media Query para telas menores */
+@media (max-width: 768px) {
+    .resultado {
+        font-size: 1.5rem;  
+        margin-top: 20px; 
+    }
+   
+    #inputMin, 
+    #inputMax {
+        max-width: 90%; 
+        width: 100%;
+    }
+
+    #resultadoText {
+        font-size:50px;  
+        text-align: center;  
+        
+    }
+    button:active {
+        opacity: 1; /* Remove a redução de opacidade no celular */
+    }
+
+}
