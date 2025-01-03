@@ -1,5 +1,5 @@
 <H1>DevSorteador🎲</H1><br>
-<H2>O DevSorteador é um projeto desenvolvido com o objetivo de criar uma ferramenta simples e eficiente para sortear números aleatórios dentro de um intervalo fornecido pelo usuário. Esse projeto foi uma oportunidade para aplicar os conhecimentos adquiridos sobre HTML, CSS, Bootstrap e JavaScript, além de aprimorar a habilidade de trabalhar com responsividade e design moderno</H2><br>
+<H2>O DevSorteador é um projeto desenvolvido com o objetivo de criar uma ferramenta simples e eficiente para sortear números aleatórios dentro de um intervalo fornecido pelo usuário.<br> Esse projeto foi uma oportunidade para aplicar os conhecimentos adquiridos sobre HTML, CSS, Bootstrap e JavaScript, além de aprimorar a habilidade de trabalhar com responsividade e design moderno</H2><br>
 
 Tecnologias Utilizadas 💻<br>
 <br>
