@@ -4,6 +4,7 @@
 <strong>DevSorteador</strong> é uma ferramenta simples, prática e divertida, desenvolvida para sortear números aleatórios dentro de um intervalo definido pelo usuário. Este projeto foi criado como um exercício de aprendizado, integrando HTML, CSS, Bootstrap e JavaScript para criar uma experiência interativa e responsiva.
 </p>
 
+
 <h2>🔧 Tecnologias Utilizadas:</h2>
 <p style="text-align: center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
