@@ -20,7 +20,7 @@
   <li>O resultado é exibido na tela</li>
 </ol>
 
-<h2>🚀 Como Rodar o Projeto Localmente:</h2>
+<h2>🚀 Como Rodar o Projeto Localmente:</h2> 
 <p>Siga os passos abaixo para rodar o DevSorteador em seu computador:</p>
 <pre>
 <code>git clone https://github.com/ErikBdaSilva20/DevSorteador.git</code>
