@@ -28,6 +28,6 @@
 
 <h2>🌟 Linkedin e GitHub Page:</h2>
 <ul>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erik-borges-silva/" target="_blank">https://www.linkedin.com/in/erik-borges-silva/</a></li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/erik-borgessilva20" target="_blank">www.linkedin.com/in/erik-borgessilva20</a></li>
   <li>🌐 <strong>Projeto no GitHub Pages:</strong> <a href="https://erikbdasilva20.github.io/SorteadorDev/" target="_blank">https://erikbdasilva20.github.io/DevSorteador/</a></li>
 </ul>
