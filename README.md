@@ -26,8 +26,10 @@
 <code>git clone https://github.com/ErikBdaSilva20/DevSorteador.git</code>
 </pre>
 
-<h2>🌟 Linkedin e GitHub Page:</h2>
-<ul>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/erik-borgessilva20" target="_blank">www.linkedin.com/in/erik-borgessilva20</a></li>
-  <li>🌐 <strong>Projeto no GitHub Pages:</strong> <a href="https://erikbdasilva20.github.io/SorteadorDev/" target="_blank">https://erikbdasilva20.github.io/DevSorteador/</a></li>
-</ul>
+<h2>🌟 Links</h2>
+
+📂 Repositório no GitHub: [https://github.com/ErikBdaSilva20/SorteadorDev](https://github.com/ErikBdaSilva20/SorteadorDev)
+
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/DevSorteador/](https://erikbdasilva20.github.io/DevSorteador/)
+
+🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
