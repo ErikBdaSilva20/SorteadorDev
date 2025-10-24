@@ -30,6 +30,6 @@
 
 📂 Repositório no GitHub: [https://github.com/ErikBdaSilva20/SorteadorDev](https://github.com/ErikBdaSilva20/SorteadorDev)
 
-🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/DevSorteador/](https://erikbdasilva20.github.io/DevSorteador/)
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/SorteadorDev/](https://erikbdasilva20.github.io/SorteadorDev/) 
 
 🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
